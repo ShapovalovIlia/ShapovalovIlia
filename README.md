@@ -11,7 +11,7 @@
 - Clojure
 - English - B2
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShapovalovIlia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShapovalovIlia)](https://github.com/anuraghazra/github-readme-stats)
 📫 How to reach me: <a href="https://t.me/spvlvl"> telegram </a>
 
 <!--
