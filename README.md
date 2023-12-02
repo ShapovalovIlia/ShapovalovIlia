@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📫 How to reach me: <a href="https://t.me/@spvlvl"> telegram </a>
+📫 How to reach me: <a href="https://t.me/spvlvl"> telegram </a>
 
 <!--
 **ShapovalovIlia/ShapovalovIlia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
