@@ -1,5 +1,17 @@
-### Hi there 👋
+### Hi there 👋 I'm a second year undergraduate student at IFMO University.
+2022-2023 - Computer Science 
+2023-2026 - Mobile and network technologies
 
+⚡ Skills
+- Python
+- C#
+- Java
+- C
+- JavaScript
+- Clojure
+- English - B2
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShapovalovIlia)](https://github.com/anuraghazra/github-readme-stats)
 📫 How to reach me: <a href="https://t.me/spvlvl"> telegram </a>
 
 <!--
