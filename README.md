@@ -10,9 +10,6 @@
 - JavaScript
 - Clojure
 - English - B2
-
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ShapovalovIlia&langs_count=5&theme=tokyonight)
-
 📫 How to reach me: <a href="https://t.me/spvlvl"> telegram </a>
 
 <!--
