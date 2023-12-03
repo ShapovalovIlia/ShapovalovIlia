@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm a second year undergraduate student at ITMO University.
 2022-2023 - Computer Science 
+
 2023-2026 - Mobile and network technologies
 
 ⚡ Skills
@@ -10,6 +11,7 @@
 - JavaScript
 - Clojure
 - English - B2
+  
 📫 How to reach me: <a href="https://t.me/spvlvl"> telegram </a>
 
 <!--
