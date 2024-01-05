@@ -2,6 +2,7 @@
 2022-2023 - Computer Science 
 
 2023-2026 - Mobile and network technologies
+
 2023 - YSDA python course 
 
 ⚡ Skills
