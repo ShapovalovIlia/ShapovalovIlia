@@ -9,10 +9,11 @@
 - Python
 - C#
 - Java
-- C
-- JavaScript
-- Clojure
-- English - B2
+- PostgreSQL
+- fastAPI
+- RabbitMQ
+- Redis
+- English B2
   
 📫 How to reach me: <a href="https://t.me/spvlvl"> telegram </a>
 
