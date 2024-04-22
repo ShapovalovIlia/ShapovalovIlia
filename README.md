@@ -11,9 +11,11 @@
 - Java
 - PostgreSQL
 - fastAPI
+- Linux
 - RabbitMQ
 - Redis
 - English B2
+
   
 📫 How to reach me: <a href="https://t.me/spvlvl"> telegram </a>
 
