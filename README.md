@@ -9,11 +9,13 @@
 - Python
 - C#
 - Java
-- PostgreSQL
-- fastAPI
-- Linux
-- RabbitMQ
+- FastAPI
+- aiogram
+- Postgres
 - Redis
+- Docker
+- RabbitMQ
+- Linux
 - English B2
 
   
