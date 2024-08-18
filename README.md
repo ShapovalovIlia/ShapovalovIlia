@@ -16,7 +16,7 @@
 - Docker
 - RabbitMQ
 - Linux
-- English B2
+- English C1
 
   
 📫 How to reach me: <a href="https://t.me/spvlvl"> telegram </a>
