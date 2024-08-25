@@ -21,5 +21,5 @@
   
 📫 How to reach me: <a href="https://t.me/spvlvl"> telegram </a>
 
-!https://github.com/ShapovalovIlia/ShapovalovIlia/blob/88da49b0b90475ab08fe9ea619f9ac1d5319099b/jobOffer.gif
+![]https://github.com/ShapovalovIlia/ShapovalovIlia/blob/88da49b0b90475ab08fe9ea619f9ac1d5319099b/jobOffer.gif
 
