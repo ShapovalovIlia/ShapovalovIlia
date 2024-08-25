@@ -21,5 +21,5 @@
   
 📫 How to reach me: <a href="https://t.me/spvlvl"> telegram </a>
 
-https://github.com/user-attachments/assets/44225c50-550c-472d-862b-c3cab3a9dccf
+![coolTextEffects](https://github.com/user-attachments/assets/d5205c9a-4878-493f-8f71-f0e524e63b19)
 
