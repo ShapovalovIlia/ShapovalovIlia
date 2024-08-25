@@ -21,5 +21,5 @@
   
 📫 How to reach me: <a href="https://t.me/spvlvl"> telegram </a>
 
-![jobOffer](https://github.com/user-attachments/assets/f4e78806-63af-4d01-8911-c674351e8058)
+[![jobOffer](https://github.com/user-attachments/assets/f4e78806-63af-4d01-8911-c674351e8058)](https://github.com/ShapovalovIlia/YSDA-Python/blob/c34cc9addb8be77ded4c75c595910c23490e7b58/jobOffer.gif)
 
