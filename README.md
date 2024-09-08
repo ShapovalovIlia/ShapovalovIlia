@@ -14,7 +14,6 @@
 - Postgres
 - Redis
 - Docker
-- RabbitMQ
 - Linux
 - English C1
 
