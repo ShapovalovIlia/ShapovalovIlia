@@ -7,14 +7,9 @@
 
 ⚡ Skills
 - Python
-- C#
-- Java
 - FastAPI
-- aiogram
 - Postgres
-- Redis
 - Docker
-- Linux
 - English C1
 
   
