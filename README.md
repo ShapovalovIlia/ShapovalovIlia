@@ -8,7 +8,10 @@
 ⚡ Skills
 - Python
 - FastAPI
+- Celery
 - Postgres
+- MongoDB
+- Redis
 - Docker
 - English C1
 
