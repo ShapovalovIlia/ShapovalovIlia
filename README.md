@@ -16,4 +16,4 @@
 - English C1
 
   
-📫 How to reach me: <a href="https://t.me/doomweneedfood"> telegram </a>
+📫 How to reach me: <a href="https://t.me/thx2every1"> telegram </a>
