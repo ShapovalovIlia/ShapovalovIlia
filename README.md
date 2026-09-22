@@ -1,3 +1,3 @@
-Fullstack developer
+python dev & AI engineer
 
-📫 How to reach me: <a href="https://t.me/thx2everyone"> telegram </a>
+📫 How to reach me: <a href="https://t.me/ilia_developer01"> telegram </a>
